@@ -124,4 +124,4 @@ const inView = () => {
 };
 
 // Export a singleton.
-export default inView();
+export default inView;
